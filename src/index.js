@@ -1,5 +1,5 @@
 const uploadedName = "gitea";
-const domain = "https://git.yefengx.top";
+const domain = "https://git.docyc.tk";
 const urlParser = require("url");
 const defaultMsg = "picgo commit";
 
